@@ -1,1 +1,3 @@
-# my-repo# my-repo
+# my-repo
+
+A minimal template repository.
